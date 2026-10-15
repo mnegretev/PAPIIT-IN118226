@@ -10,6 +10,7 @@
 * Eslabones: Impresión 3D en nylon con fibra de carbono
 
 En la siguiente imagen se muestra el prototipo construido:
+
 ![prototipo](https://github.com/mnegretev/PAPIIT-IN118226/blob/main/Prototipo/Prototipo.jpg)
 
 * El video "Diseño del tren inferior.mp4" muestra una primera etapa en la que se tenían solo las piernas.
