@@ -9,7 +9,7 @@ Se desarrolló un ambiente de simulación utilizando el simulador MuJoCo y los m
 
 La siguiente imagen muestra un ejemplo de dicho ambiente con el robot Unitree G1:
 
-[simulador](https://github.com/mnegretev/PAPIIT-IN118226/blob/main/Resultados%20de%20RL%20en%20simulación/Simulador.png)
+![simulador](https://github.com/mnegretev/PAPIIT-IN118226/blob/main/Resultados%20de%20RL%20en%20simulaci%C3%B3n/Simulador.png)
 
 En esta misma carpeta se incluyen algunos videos con los resultados obtenidos usando este simulador:
 
