@@ -17,4 +17,6 @@ En esta misma carpeta se incluyen algunos videos con los resultados obtenidos us
 * "unitree_mala_recompensa.mp4" muestra un entrenamiento similar pero para el robot Unitree G1.
 * "unitree_levantamiento.mp4" muestra un entrenamiento para recuperación de caída con una alta penalización a la energía consumida.
 * "unitree_levantamiento2.mp4" muestra un entrenamiento similar pero sin penalizar el consumo de energía, lo que hace que se vean movimientos bruscos.
-* "Caminata1.mp4" y "Caminata2.mp4" muestran los resultados de entrenamientos para caminata ya probados en el robot Unitree G1 en el Laboratorio de Investigación en Robótica Avanzada. 
+* "Caminata1.mp4" y "Caminata2.mp4" muestran los resultados de entrenamientos para caminata ya probados en el robot Unitree G1 en el Laboratorio de Investigación en Robótica Avanzada.
+
+En el reporte final se colocarán las instrucciones para correr el simulador y reproducir los resultados en simulación.
